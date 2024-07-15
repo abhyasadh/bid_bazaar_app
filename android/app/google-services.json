@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "321175200170",
+    "project_id": "bid-bazaar-89460",
+    "storage_bucket": "bid-bazaar-89460.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321175200170:android:1d9593094dab89581a4bd3",
+        "android_client_info": {
+          "package_name": "com.example.bid_bazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321175200170-eik3hvtjaulcf1e4eec1bfb1e4u7abni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bid_bazaar",
+            "certificate_hash": "934456238026306170076c5c8557b245f17bcd58"
+          }
+        },
+        {
+          "client_id": "321175200170-i8pmoq0ndajks2hguh1u95ipfc8okq0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArpXMg6Q_VssZ9iEqwzBl4RJowTC1yP3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321175200170-i8pmoq0ndajks2hguh1u95ipfc8okq0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
